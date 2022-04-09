@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,SACE,iBAAkB,CAClB,wEAA6E,CAC7E,6BAAsB,CAAtB,qBAAsB,CACtB,eACF","file":"main.952556c2.chunk.css","sourcesContent":[".heading{\n  text-align: center;\n  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;\n  text-decoration: solid;\n  margin-top: 66px;\n}"]}
